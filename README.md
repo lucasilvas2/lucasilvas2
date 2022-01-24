@@ -2,7 +2,7 @@
 <h3> Sobre mim: <h3>
 <ul>
   <li>🎓 Estou cursando Tecnologia da Informação IMD/UFRN. </li>
-  <li>🔭 Atualmente estou trabalhando no provedor de internet Longnet Provedor.</li>
+  <li>🔭 Atualmente estou trabalhando na empresa Longnet Provedor.</li>
   <li>🌱 Autalmente estou aprendendo Java, Html, CSS e Javascript.</li>
   <li>💬 Fascinado na área de desenvolvimento de softwares e Web.</li>
 </ul>
